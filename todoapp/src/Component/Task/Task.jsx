@@ -70,7 +70,7 @@ export default function Task({ toDo, index }) {
                             }}
                             onClick={(e) => handlechange(toDo.id)}
                         >
-                            {toDo.isDone ? "don" : "undon"}
+                            {toDo.isDone ? "don" : "indon"}
                         </button>
                         <button
                             style={{

@@ -1,0 +1,20 @@
+.App {
+    background-color: #ffffff;
+    padding: 0 26%;
+}
+.AddTask {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 654px;
+    height: 80px;
+    background-color: #1dd2af;
+    position: fixed;
+    top: 20px;
+}
+
+.ListTask {
+    margin: 100px auto;
+    width: 654px;
+    background-color: #ffffff;
+}

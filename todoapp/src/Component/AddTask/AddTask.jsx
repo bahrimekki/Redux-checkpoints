@@ -22,7 +22,7 @@ export default function AddTask() {
                     color: "#a4abb2",
                     width: "572px",
                     border: "none",
-                    fontSize: "60px",
+                    fontSize: "50px",
                 }}
                 onChange={(e) => NewTask(e.target.value)}
                 value={newTask}
